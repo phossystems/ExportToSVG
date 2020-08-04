@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"20561ffd-a9e1-4bc5-91dc-ae210f01b549",
+	"author":	"ortus",
+	"description":	{
+		"":	"Exports Sketch and Model Geometry as SVG"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
